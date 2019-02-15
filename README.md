@@ -1,8 +1,6 @@
 # Antenna analyzer "SWR-mouse"
 EasyEDA project for simple and quick assembly of the "SWR-mouse" antenna analyzer adapted for installation in the G403 case (Gainta Industries). The project includes the "SWR-mouse" antenna analyzer schematic and the PCB file. Version for mounting SMD components. Based on the submitted files, you can independently manufacture a PCB or order its manufacturing at the factory. In turn, I developed PCB for the independently manufacturing based on the existing circuit.
 
-
-
 ## Current development progress:
 [![Progress](https://img.shields.io/badge/Antenna%20analyzer%20%28SMD%29-not%20tested-yellow.svg)](https://easyeda.com/IgrikXD/Antenna-analyzer-SMD) [![Progress](https://img.shields.io/badge/version-1.2.0-blue.svg)](./EasyEDA)  
 
@@ -18,6 +16,17 @@ In [Datasheets](./Datasheets) and [Schematics](./Schematics) directories, you ca
 Such a mismatch results in standing waves along the transmission line which magnifies transmission line losses. The SWR is a measure of the depth of those standing waves and is, therefore, a measure of the matching of the load to the transmission line. A matched load would result in an SWR of 1:1 implying no reflected wave. An infinite SWR represents complete reflection by a load unable to absorb electrical power, with all the incident power reflected back towards the source.
 
 SWR is usually measured using a dedicated instrument called an SWR meter.
+
+## What is "SWR-mouse"?
+**The "SWR-mouse" antenna analyzer allows you to panoramically measure the SWR of antenna-feeder systems, determine the active resistance and the reactance modulus.** The measurements are displayed on the Android or Windows device as a graph in the specified frequency ranges.
+
+## Basic device characteristics:
+- **Frequency range:** Depends on firmware (version 1.3: 1 - 450 MHz);
+- **Power:** USB type B, DC 5 V;
+- **RF connector:** SMA;
+- **Feed line:** 50 Ohm coaxial cable;
+- **Interfaces for work:** USB (Windows + power supply), Bluetooth (Android);
+- **Compatible case:** [G403, Gainta Industries](http://www.gainta.com/en/g403.html);
 
 ## What was used in the development?
 | Source | Description |
