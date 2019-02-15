@@ -7,6 +7,9 @@ EasyEDA project for simple and quick assembly of the "SWR-mouse" antenna analyze
 ## Current available implementations at EasyEDA platform:
 - [Antenna analyzer (SMD)] ([Components list](./Components%20list.md), [Assembly guide](./Assembly%20guide.md))
 
+## How to use this repository?
+In [Datasheets](./Datasheets) and [Schematics](./Schematics) directories, you can find all necessary technical documentation for the used components and schematic files in PDF format. If you only need GERBER files, you can find them in the appropriate [Gerbers](./Gerbers) directory. In the [EasyEDA](./EasyEDA) directory, you can find a list of files for implementing the ready device (files can be imported into EasyEDA editor). After that, based on submitted files, you can make the device independently or order printed circuit boards for factory manufacturing.
+
 ## What was used in the development?
 | Source | Description |
 | ------ | ------ |
