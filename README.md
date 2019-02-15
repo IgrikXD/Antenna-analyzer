@@ -13,6 +13,11 @@ EasyEDA project for simple and quick assembly of the "SWR-mouse" antenna analyze
 | [UR5FFR • View topic - Антенный анализатор Si5351 SWR-mouse] | The original solution of the antenna analyzer "SWR-mouse" from the radio amateur UR5FFR. Article on the forum in Russian. |
 | [Антенный Анализатор UR5FFR на ARDUINO и Si5351] | Video on YouTube from radio amateur R2AJI. It describes the process of manufacturing the "SWR-mouse" antenna analyzer circuit board for the G436/G407 case. In this version, there is an implementation of power supplying from a 18650 battery, a SO-239 connector, a Mini-USB power/data connector. |
 
+## How to contact me?
+- E-mail: igor.nikolaevich.96@gmail.com
+- Telegram: https://t.me/igrikxd
+- LinkedIn: https://www.linkedin.com/in/igor-yatsevich/
+
 [Antenna analyzer (SMD)]: <https://easyeda.com/IgrikXD/Antenna-analyzer-SMD>
 [UR5FFR • View topic - Антенный анализатор Si5351 SWR-mouse]: <http://dspview.com/viewtopic.php?f=14&t=189>
 [Антенный Анализатор UR5FFR на ARDUINO и Si5351]: <https://www.youtube.com/watch?v=hkxOoky4vWA&t>
