@@ -43,4 +43,4 @@ SWR is usually measured using a dedicated instrument called an SWR meter.
 [Antenna analyzer (SMD)]: <https://easyeda.com/IgrikXD/Antenna-analyzer-SMD>
 [UR5FFR • View topic - Антенный анализатор Si5351 SWR-mouse]: <http://dspview.com/viewtopic.php?f=14&t=189>
 [Антенный Анализатор UR5FFR на ARDUINO и Si5351]: <https://www.youtube.com/watch?v=hkxOoky4vWA&t>
-[Standing wave ratio - Wikipedia]: <>
+[Standing wave ratio - Wikipedia]: <https://en.wikipedia.org/wiki/Standing_wave_ratio>
