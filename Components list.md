@@ -36,7 +36,7 @@
 ##### Connectors:
 - SMA Female (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1312.R1.TR9.TRC1.A0.H0.Xsma+female+.TRS2&_nkw=sma+female+edge&_sacat=0) /
-[Datasheet](./Datasheets/Connectors/SMA-Female-Datasheet.pdf) ) - **2 pcs.**
+[Datasheet](./Datasheets/Connectors/SMA-Female-Datasheet.pdf) ) - **1 pcs.**
 - USB type B (
 [LCSC](https://lcsc.com/search?q=USB%20BFemale90) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1311.R1.TR5.TRC0.A0.H0.Xusb+type+b+f.TRS0&_nkw=usb+type+b+female+connector&_sacat=0) /
