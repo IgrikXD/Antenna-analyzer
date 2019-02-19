@@ -27,11 +27,37 @@
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR0.TRC0.A0.H0.Xsa612a.TRS5&_nkw=sa612a&_sacat=0) /
 [Datasheet](./Datasheets/Mixers/SA612A-Mixer-Datasheet.pdf) ) - **1 pcs.**
 
+##### Ceramic filters:
+- LTM455, DIP-4+1 (
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=LTM455&_sacat=0) /
+[Datasheet](./Datasheets/Ceramic%20filters/LTM455-Ceramic-filter-Datasheet.pdf) ) - **1 pcs.**
+
 ##### Voltage regulators:
 - LM1117IMPX-3.3, SOT223 (
 [LCSC](https://lcsc.com/search?q=LM1117IMPX-3.3) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=LM1117IMPX-3.3&_sacat=0) /
 [Datasheet](./Datasheets/Voltage%20regulators/LM1117-Linear-Regulator-Datasheet.pdf) ) - **1 pcs.**
+
+##### Bluetooth modules (for the version with work via Bluetooth):
+- HC-05, 6-pin (
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR0.TRC0.A0.H0.Xhc-05.TRS5&_nkw=hc-05&_sacat=0) /
+[Datasheet](./Datasheets/Bluetooth%20modules/HC-05-Bluetooth-module-Datasheet.pdf) ) - **1 pcs.**
+
+##### Transistors:
+- MOSFET BSS138, SOT-23 (
+[LCSC](https://lcsc.com/search?q=BSS138) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR0.TRC0.A0.H0.XBSS138.TRS5&_nkw=BSS138&_sacat=0) /
+[Datasheet](./Datasheets/MOSFET/BSS138-Datasheet.pdf) ) - **2 pcs.**
+- BJT(NPN) MMBT2222A, SOT-23 (
+[LCSC](https://lcsc.com/search?q=MMBT2222A) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=MMBT2222A&_sacat=0) /
+[Datasheet](./Datasheets/BJT%20(NPN)/MMBT2222A-Datasheet.pdf) ) - **1 pcs.**
+
+##### Diodes:
+- 1N4148, SOD-123 (
+[LCSC](https://lcsc.com/search?q=1n4148%20sod-123) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=1n4148+sod-123&_sacat=0) /
+[Datasheet](./Datasheets/Diodes/1N4148-Diode-Datasheet.pdf) ) - **1 pcs.**
 
 ##### Connectors:
 - SMA Female (
