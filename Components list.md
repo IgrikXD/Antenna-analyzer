@@ -59,6 +59,12 @@
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=1n4148+sod-123&_sacat=0) /
 [Datasheet](./Datasheets/Diodes/1N4148-Diode-Datasheet.pdf) ) - **1 pcs.**
 
+##### Relays:
+- G5V-1-DC5, Plugin (
+[LCSC](https://lcsc.com/search?q=G5V-1-DC5) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=G5V-1-DC5&_sacat=0) /
+[Datasheet](./Datasheets/Relays/G5V-1-DC5-Relay-Datasheet.pdf) ) - **1 pcs.**
+
 ##### Connectors:
 - SMA Female (
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1312.R1.TR9.TRC1.A0.H0.Xsma+female+.TRS2&_nkw=sma+female+edge&_sacat=0) /
@@ -67,3 +73,8 @@
 [LCSC](https://lcsc.com/search?q=USB%20BFemale90) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1311.R1.TR5.TRC0.A0.H0.Xusb+type+b+f.TRS0&_nkw=usb+type+b+female+connector&_sacat=0) /
 [Datasheet](./Datasheets/Connectors/USB-Connectors-Datasheet.pdf) ) - **1 pcs.**
+
+##### Cases:
+-  G403, Gainta Industries (
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=g403+enclosure&_sacat=0) /
+[Datasheet](./Datasheets/Cases/G403-Case-Datasheet.pdf) ) - **1 pcs.**
