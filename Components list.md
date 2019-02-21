@@ -59,11 +59,68 @@
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=1n4148+sod-123&_sacat=0) /
 [Datasheet](./Datasheets/Diodes/1N4148-Diode-Datasheet.pdf) ) - **1 pcs.**
 
+##### Ceramic Resonators:
+- 12 MHz, 3213 (
+[LCSC](https://lcsc.com/search?q=12%20MHz%203213) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=12+MHz+3213&_sacat=0) ) - **1 pcs.**
+- 16 MHz, 3213 (
+[LCSC](https://lcsc.com/search?q=16%20MHz%203213) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR2.TRC1.A0.H0.X16+MHz+3213.TRS0&_nkw=16+MHz+3213&_sacat=0) ) - **1 pcs.**
+- 27 MHz, 3225 (
+[LCSC](https://lcsc.com/search?q=27%20MHz%203225) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=27+MHz+3225&_sacat=0) ) - **1 pcs.**
+
 ##### Relays:
 - G5V-1-DC5, Plugin (
 [LCSC](https://lcsc.com/search?q=G5V-1-DC5) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=G5V-1-DC5&_sacat=0) /
 [Datasheet](./Datasheets/Relays/G5V-1-DC5-Relay-Datasheet.pdf) ) - **1 pcs.**
+
+##### Capacitors:
+- 10nF, 6.3V+, 0805 (
+[LCSC](https://lcsc.com/search?q=10nf%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.X10nf+0805.TRS0&_nkw=10nf+0805&_sacat=0) ) - **1 pcs.**
+- 100nF, 6.3V+, 0805 (
+[LCSC](https://lcsc.com/search?q=100nf%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.X100nf+0805.TRS2&_nkw=100nf+0805&_sacat=0) ) - **14 pcs.**
+- 10uF, 6.3V+, 0805 (
+[LCSC](https://lcsc.com/search?q=10puf%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.X10uf+0805.TRS0&_nkw=10uf+0805&_sacat=0) ) - **1 pcs.**
+- 47uF, 6.3V+, CASE-B 3528 (
+[LCSC](https://lcsc.com/search?q=47uf%20case-b) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=47uf+case-b&_sacat=0) ) - **1 pcs.**
+
+##### Resistors:
+- 33R, 0805 (
+[LCSC](https://lcsc.com/search?q=33R%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR11.TRC1.A0.H0.X33R+0805.TRS0&_nkw=33R+0805&_sacat=0) ) - **1 pcs.**
+- 51R, 0805 (
+[LCSC](https://lcsc.com/search?q=51R%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR11.TRC1.A0.H0.X51R+0805.TRS0&_nkw=51R+0805&_sacat=0) ) - **5 pcs.**
+- 100R, 0805 (
+[LCSC](https://lcsc.com/search?q=100R%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=100R+0805&_sacat=0) ) - **5 pcs.**
+- 330R, 0805 (
+[LCSC](https://lcsc.com/search?q=330R%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR10.TRC1.A0.H0.X330R+0805.TRS1&_nkw=330R+0805&_sacat=0) ) - **2 pcs.**
+- 680R, 0805 (
+[LCSC](https://lcsc.com/search?q=680R%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC0.A0.H0.X680R+0805.TRS0&_nkw=680R+0805&_sacat=0) ) - **2 pcs.**
+- 4k7, 0805 (
+[LCSC](https://lcsc.com/search?q=4k7%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR9.TRC0.A0.H0.X4k7+0805.TRS0&_nkw=4k7+0805&_sacat=0) ) - **2 pcs.**
+- 10k, 0805 (
+[LCSC](https://lcsc.com/search?q=10k%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.X10k+0805.TRS0&_nkw=10k+0805&_sacat=0) ) - **5 pcs.**
+- 270k, 0805 (
+[LCSC](https://lcsc.com/search?q=270k%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.X270k+0805.TRS0&_nkw=270k+0805&_sacat=0) ) - **1 pcs.**
+- 300k, 0805 (
+[LCSC](https://lcsc.com/search?q=300k%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.X300k+0805.TRS0&_nkw=300k+0805&_sacat=0) ) - **1 pcs.**
+- 1M, 0805 (
+[LCSC](https://lcsc.com/search?q=1M%200805) /
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.A0.H0.X1M+080.TRS1&_nkw=1M+0805&_sacat=0) ) - **1 pcs.**
 
 ##### Connectors:
 - SMA Female (
