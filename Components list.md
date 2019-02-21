@@ -54,10 +54,10 @@
 [Datasheet](./Datasheets/BJT%20(NPN)/MMBT2222A-Datasheet.pdf) ) - **1 pcs.**
 
 ##### Diodes:
-- 1N4148, SOD-123 (
+- 1N4148W, SOD-123 (
 [LCSC](https://lcsc.com/search?q=1n4148%20sod-123) /
 [EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=1n4148+sod-123&_sacat=0) /
-[Datasheet](./Datasheets/Diodes/1N4148-Diode-Datasheet.pdf) ) - **1 pcs.**
+[Datasheet](./Datasheets/Diodes/1N4148W-Diode-Datasheet.pdf) ) - **1 pcs.**
 
 ##### Ceramic Resonators:
 - 12 MHz, 3213 (
