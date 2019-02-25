@@ -40,8 +40,7 @@
 
 ##### Bluetooth modules (for the version with work via Bluetooth):
 - HC-05, 6-pin (
-[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR0.TRC0.A0.H0.Xhc-05.TRS5&_nkw=hc-05&_sacat=0) /
-[Datasheet](./Datasheets/Bluetooth%20modules/HC-05-Bluetooth-module-Datasheet.pdf) ) - **1 pcs.**
+[EBAY](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR0.TRC0.A0.H0.Xhc-05.TRS5&_nkw=hc-05&_sacat=0) ) - **1 pcs.**
 
 ##### Transistors:
 - MOSFET BSS138, SOT-23 (
