@@ -35,6 +35,10 @@ SWR is usually measured using a dedicated instrument called an SWR meter.
 | [Антенный Анализатор UR5FFR на ARDUINO и Si5351] | Video on YouTube from radio amateur R2AJI. It describes the process of manufacturing the "SWR-mouse" antenna analyzer circuit board for the G436/G407 case. In this version, there is an implementation of power supplying from a 18650 battery, a SO-239 connector, a Mini-USB power/data connector. Fixed PCB layout errors. |
 | [Standing wave ratio - Wikipedia] | An article on Wikipedia describing what SWR is. |
 
+## Who helped me with the development of the project?
+Great thanks to [PCBWay] for the $ 40 discount when ordering PCBs for the project.
+![PCBWay-Logo](https://github.com/IgrikXD/Antenna-analyzer/blob/master/Resources/PCBWay-logo.png)
+
 ## How to contact me?
 - E-mail: igor.nikolaevich.96@gmail.com
 - Telegram: https://t.me/igrikxd
@@ -44,3 +48,4 @@ SWR is usually measured using a dedicated instrument called an SWR meter.
 [UR5FFR • View topic - Антенный анализатор Si5351 SWR-mouse]: <http://dspview.com/viewtopic.php?f=14&t=189>
 [Антенный Анализатор UR5FFR на ARDUINO и Si5351]: <https://www.youtube.com/watch?v=hkxOoky4vWA&t>
 [Standing wave ratio - Wikipedia]: <https://en.wikipedia.org/wiki/Standing_wave_ratio>
+[PCBWay]: <https://pcbway.com>
