@@ -28,18 +28,20 @@ After payment of the order, we can look at the information on the placed order. 
 To view the production status, click the "Production Tracking" button for the specific PCB.  
 ![Order status](../Resources/PCBWay%20order/PCBWay-8-Order-status.png)  
 
+## Soldering-ready PCBs
+
 Example of PCBs from PCBWay service:  
-![PCBs](../Resources/PCBWay%20order/PCBWay-9-PCB-1.png)  
-![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-10-PCB-2.png)  
-![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-11-PCB-3.png)  
-![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-12-PCB-4.png)  
-![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-13-PCB-5.png)  
-![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-14-PCB-6.png)  
-![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-15-PCB-7.png)  
-![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-16-PCB-8.png)  
-![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-17-PCB-9.png)  
-![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-18-PCB-10.png)  
-![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-19-PCB-11.png)  
+![PCBs](../Resources/PCBWay%20order/PCBWay-9-PCB-1.jpg)  
+![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-10-PCB-2.jpg)  
+![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-11-PCB-3.jpg)  
+![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-12-PCB-4.jpg)  
+![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-13-PCB-5.jpg)  
+![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-14-PCB-6.jpg)  
+![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-15-PCB-7.jpg)  
+![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-16-PCB-8.jpg)  
+![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-17-PCB-9.jpg)  
+![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-18-PCB-10.jpg)  
+![Antenna analyzer](../Resources/PCBWay%20order/PCBWay-19-PCB-11.jpg)  
 
 PCBs of high enough quality, I currently have no claims on workmanship. Earlier, about a year ago, I encountered a problem with the poor quality of the solder mask in PCBWay boards (peeling during heating), but now no problems have been found.  
 
