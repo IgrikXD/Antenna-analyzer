@@ -7,6 +7,10 @@ EasyEDA project for simple and quick assembly of the "SWR-mouse" antenna analyze
 ## Current available implementations at EasyEDA platform:
 - [Antenna analyzer (SMD)] ([Components list](./Components%20list.md), [Assembly guide](./Assembly%20guide.md), [Firmware instruction](./Firmware%20instruction.md))
 
+## Current available information articles:
+- [How to export Gerber file from EasyEDA]
+- [How to order from PCBWay]
+
 ## How to use this repository?
 In [Datasheets](./Datasheets) and [Schematics](./Schematics) directories, you can find all necessary technical documentation for the used components and schematic files in PDF format. If you only need GERBER files, you can find them in the appropriate [Gerbers](./Gerbers) directory. In the [EasyEDA](./EasyEDA) directory, you can find a list of files for implementing the ready device (files can be imported into EasyEDA editor). After that, based on submitted files, you can make the device independently or order printed circuit boards for factory manufacturing.
 
@@ -49,3 +53,5 @@ Great thanks to [PCBWay] for the $ 40 discount when ordering PCBs for the projec
 [Антенный Анализатор UR5FFR на ARDUINO и Si5351]: <https://www.youtube.com/watch?v=hkxOoky4vWA&t>
 [Standing wave ratio - Wikipedia]: <https://en.wikipedia.org/wiki/Standing_wave_ratio>
 [PCBWay]: <https://pcbway.com>
+[How to export Gerber file from EasyEDA]: <./Useful%20info/How%20to%20export%20Gerber%20file%20from%20EasyEDA.md>
+[How to order from PCBWay]: <./Useful%20info/How%20to%20order%20from%20PCBWay.md>
