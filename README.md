@@ -3,9 +3,10 @@ EasyEDA project for simple and quick assembly of the "SWR-mouse" antenna analyze
 
 ## Current development progress:
 [![Progress](https://img.shields.io/badge/Antenna%20analyzer-not%20tested-yellow.svg?longCache=true&style=for-the-badge)](https://easyeda.com/IgrikXD/Antenna-analyzer-SMD) [![Progress](https://img.shields.io/badge/Version-1.2.2-blue.svg?longCache=true&style=for-the-badge)](./EasyEDA)  
+**No longer supported, as a much more functional alternative to this device has appeared on the market - NanoVNA.**
 
 ## Current available implementations at EasyEDA platform:
-- [Antenna analyzer (SMD)] ([Components list](./Components%20list.md), [Assembly guide](./Assembly%20guide.md), [Firmware instruction](./Firmware%20instruction.md))
+- [Antenna analyzer (SMD)] ([Components list](./Components%20list.md), [Assembly guide](./Assembly%20guide.md))
 
 ## Current available information articles:
 - [How to export Gerber file from EasyEDA]
